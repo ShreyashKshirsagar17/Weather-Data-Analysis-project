@@ -51,25 +51,3 @@ Data Analysis on Weather Dataset using Python
    ```bash
 data.describe()
 ```
-  <br><br>
-<h2>Answering Different Data Analysis Problems</h2>
-<h3>Q1)To check if there are null values and drop them</h3>
-<h3>Q2) To find unique instances of weather types</h3>
-<h3>Q3) To rename column named 'Weather' to Weather Condition'</h3>
-<h3>Q4)To find all records from data of when the weather was exactly clear ?</h3>
-<h3>Q5)To find the mean temperature, wind speed and visibility?</h3>
-<h3></h3>
-<h3>Q6)To find the variance of pressure ?</h3>
-<h3>Q7) To Find the Days in which wind speed was more then 30km/h & temperature is greater then 0C?</h3>
-<h3>Q8) To find the date and temperatures for all instances when snow was recorded</h3>
-<h3>Q9) To display a graph of variation of temperature with respect to time ?</h3>
-<h3>Q10) To display a pie chart of percentages of weather conditions (pie chart)</h3>
-<br><br>
-<h2>Conclusion</h2>
-<p>Data analysis is a continuous process that represents how deep and better you represent your analysis to the client so the insights that can be used to drive business decisions are understandable.</p>
-
-</body>
-</html>
-
-## References
-- [Kaggle.com](https://www.kaggle.com)
